@@ -1,4 +1,4 @@
-#연구 계획서
+# 연구 계획서
 ## 연구문제:
 한중 양국 넷티즈들의 개인 프라이버시 보호 인식의 비교
 
@@ -31,7 +31,7 @@ Chiung-wen (Julia) Hsu
 by DAVID BANisAR AND SIMON DAVIES OF PRIVACY INTERNATIONALt
 - Privacy in the Digital Age: A Review of Information Privacy Research in Information
 Systems
-Author(s): France Bélanger and Robert E. Crossler
+Author(s): France Bélanger and Robert E. Crossler
 - Characteristics of Internet Users and Their Privacy Concerns
 Yue “Jeff” Zhang PhD , Jim Q. Chen PhD & Kuang-Wei Wen PhD
 - Development of Measures of Online Privacy Concern and Protection for Use on the Internet
